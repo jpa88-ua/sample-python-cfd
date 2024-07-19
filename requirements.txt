@@ -5,3 +5,9 @@ pytest-randomly==1.2.3 # needed for python 2.7+3.4
 Flask-Testing==0.8.1
 pylint
 pylint-flask-sqlalchemy
+
+swagger-ui-bundle==1.1.0
+python_dateutil==2.8.1
+connexion~=3.1.0
+Flask~=3.0.3
+six~=1.16.0
